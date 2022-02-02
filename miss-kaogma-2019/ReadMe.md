@@ -34,7 +34,8 @@
     </li>
     <li>
         <a href="https://www.kulotsystems.tech/old/apps/tabulations/2019-miss-kaogma/admin/results-public.php?p=6" target="_blank">
-            Q&A / SPEECH OF TOP 12
+            Q&A / SPEECH OF TOP 12<br>
+            <small><i>The tie was resolved by the judges manually.</i></small>
         </a>
     </li>
     <li>
