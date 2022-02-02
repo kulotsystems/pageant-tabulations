@@ -1,7 +1,7 @@
 ## Beauty Pageant Tabulations
 
 Back at <a href="https://web.facebook.com/ACLCCollegeIRIGA">ACLC College of Iriga</a>,
-I was able to practice my development skills in real-life events such as beauty pageants.
+I was able to apply some development skills in real-life events such as beauty pageants.
 
 My setup has always been the dead-simple local network through WIFI.
 Laptops assigned to the board of judges are the clients connected to my local server,
