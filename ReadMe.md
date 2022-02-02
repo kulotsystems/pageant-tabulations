@@ -13,5 +13,5 @@ I went to several tabulations, but these are the only results I managed to save:
 
 <ul>
     <li><a href="miss-iriga-2019/ReadMe.md"><big>Miss Iriga 2019</big></a></li>
-    <li><a href="miss-iriga-2019/ReadMe.md"><big>Miss Kaogma 2019</big></a></li>
+    <li><a href="miss-kaogma-2019/ReadMe.md"><big>Miss Kaogma 2019</big></a></li>
 </ul>
