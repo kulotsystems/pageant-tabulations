@@ -12,6 +12,6 @@ The more judges there were, the more fun and thrilling!
 I went to several tabulations, but these are the only results I managed to save:
 
 <ul>
-    <li><a href="miss-iriga-2019/ReadMe.md"><big>Miss Iriga 2019</big></a></li>
-    <li><a href="miss-kaogma-2019/ReadMe.md"><big>Miss Kaogma 2019</big></a></li>
+    <li><a href="2019-miss-iriga/ReadMe.md"><big>Miss Iriga 2019</big></a></li>
+    <li><a href="2019-miss-kaogma/ReadMe.md"><big>Miss Kaogma 2019</big></a></li>
 </ul>
