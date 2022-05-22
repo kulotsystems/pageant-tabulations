@@ -18,3 +18,4 @@ I went to several tabulations, but these are the only results I managed to save:
 #### Most Recently
 
 * [Miss ACLC Iriga 2022](2022-miss-aclc-iriga/ReadMe.md)
+* [Miss Lauyay-Trans Bicolandia 2022](2022-miss-lauyay-trans)
